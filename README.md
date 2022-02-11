@@ -8,7 +8,7 @@
 
 # Project Title
 
-EKS-K8-Dashboard
+EKS-K8-Dashboard [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=EKS%20-%20Kubernetes%20-%20Dashboard&url=https://github.com/SM4527/EKS-K8-Dashboard)
 
 ## Description
 
